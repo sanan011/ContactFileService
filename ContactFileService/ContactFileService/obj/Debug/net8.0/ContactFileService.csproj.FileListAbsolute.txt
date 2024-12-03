@@ -1,0 +1,15 @@
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\bin\Debug\net8.0\ContactFileService.exe
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\bin\Debug\net8.0\ContactFileService.deps.json
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\bin\Debug\net8.0\ContactFileService.runtimeconfig.json
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\bin\Debug\net8.0\ContactFileService.dll
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\bin\Debug\net8.0\ContactFileService.pdb
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.AssemblyInfoInputs.cache
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.AssemblyInfo.cs
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.csproj.CoreCompileInputs.cache
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.sourcelink.json
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.dll
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\refint\ContactFileService.dll
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.pdb
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ContactFileService.genruntimeconfig.cache
+C:\Users\AzEduNet\source\repos\ContactFileService\ContactFileService\obj\Debug\net8.0\ref\ContactFileService.dll
